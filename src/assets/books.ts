@@ -1,0 +1,58 @@
+export const books = [
+  {
+    id: 1,
+    title: "Praying with Jane Eyre",
+    author: "Vanessa Zoltan",
+    rating: 3,
+    yearRead: 2022,
+    notes: "Writing B, Content A",
+    synopsis: "Essays on treating Jane Eyre as a sacred text.",
+  },
+  {
+    id: 2,
+    title: "Wow, No Thank You",
+    author: "Samantha Irby",
+    rating: 4,
+    yearRead: 2022,
+    notes: "Entertaining. Would read more of her books",
+    synopsis: "Humor essays on nonsense and IBS",
+  },
+  {
+    id: 3,
+    title: "Four Thousand Weeks",
+    author: "Oliver Burkeman",
+    rating: 5,
+    yearRead: 2022,
+    notes: "Exactly the permission I was looking for to stop angsting about everything in my life",
+    synopsis:
+      "Time management for mortals. How to stop achieving infinity and actually enjoy your life.",
+  },
+  {
+    id: 4,
+    title: "No One is Talking About This",
+    author: "Patricia Lockwood",
+    rating: 5,
+    yearRead: 2021,
+    notes: "A bit weird to get into at first, but emotionally devastating",
+    synopsis:
+      "An internet-obsessed narrator has to cope with the rare medical diagnosis of her sister's baby",
+  },
+  {
+    id: 5,
+    title: "How to Do Nothing",
+    author: "Jenny Odell",
+    rating: 5,
+    yearRead: 2021,
+    notes: "Changed my worldview.",
+    synopsis: "Resisting isolation and the productivity treadmill",
+  },
+  {
+    id: 6,
+    title: "Where'd You Go Bernadette",
+    author: "Maria Semple",
+    rating: 3,
+    yearRead: 2019,
+    notes: "It was okay.",
+    synopsis: "Bernadette disappears.",
+  },
+];
