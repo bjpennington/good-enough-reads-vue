@@ -7,6 +7,7 @@ export const books = [
     yearRead: 2022,
     notes: "Writing B, Content A",
     synopsis: "Essays on treating Jane Eyre as a sacred text.",
+    bookCover: "https://images3.penguinrandomhouse.com/cover/9780593088005",
   },
   {
     id: 2,
@@ -16,6 +17,7 @@ export const books = [
     yearRead: 2022,
     notes: "Entertaining. Would read more of her books",
     synopsis: "Humor essays on nonsense and IBS",
+    bookCover: "https://images1.penguinrandomhouse.com/cover/9780525563488",
   },
   {
     id: 3,
@@ -23,9 +25,11 @@ export const books = [
     author: "Oliver Burkeman",
     rating: 5,
     yearRead: 2022,
-    notes: "Exactly the permission I was looking for to stop angsting about everything in my life",
+    notes:
+      "Exactly the permission I was looking for to stop angsting about everything in my life",
     synopsis:
       "Time management for mortals. How to stop achieving infinity and actually enjoy your life.",
+    bookCover: "https://mpd-biblio-covers.imgix.net/9780374159122.jpg",
   },
   {
     id: 4,
@@ -36,6 +40,7 @@ export const books = [
     notes: "A bit weird to get into at first, but emotionally devastating",
     synopsis:
       "An internet-obsessed narrator has to cope with the rare medical diagnosis of her sister's baby",
+    bookCover: "https://images1.penguinrandomhouse.com/cover/9780593189597",
   },
   {
     id: 5,
@@ -45,6 +50,7 @@ export const books = [
     yearRead: 2021,
     notes: "Changed my worldview.",
     synopsis: "Resisting isolation and the productivity treadmill",
+    bookCover: "https://images1.penguinrandomhouse.com/cover/9781612198552",
   },
   {
     id: 6,
@@ -54,5 +60,6 @@ export const books = [
     yearRead: 2019,
     notes: "It was okay.",
     synopsis: "Bernadette disappears.",
+    bookCover: "https://www.littlebrown.com/wp-content/uploads/2017/06/Bernadette.jpeg",
   },
 ];
