@@ -1,6 +1,6 @@
 export const books = [
   {
-    id: 1,
+    id: "1",
     title: "Praying with Jane Eyre",
     author: "Vanessa Zoltan",
     rating: 3,
@@ -10,7 +10,7 @@ export const books = [
     cover: "https://images3.penguinrandomhouse.com/cover/9780593088005",
   },
   {
-    id: 2,
+    id: "2",
     title: "Wow, No Thank You",
     author: "Samantha Irby",
     rating: 4,
@@ -20,7 +20,7 @@ export const books = [
     cover: "https://images1.penguinrandomhouse.com/cover/9780525563488",
   },
   {
-    id: 3,
+    id: "3",
     title: "Four Thousand Weeks",
     author: "Oliver Burkeman",
     rating: 5,
@@ -32,7 +32,7 @@ export const books = [
     cover: "https://mpd-biblio-covers.imgix.net/9780374159122.jpg",
   },
   {
-    id: 4,
+    id: "4",
     title: "No One is Talking About This",
     author: "Patricia Lockwood",
     rating: 5,
@@ -43,7 +43,7 @@ export const books = [
     cover: "https://images1.penguinrandomhouse.com/cover/9780593189597",
   },
   {
-    id: 5,
+    id: "5",
     title: "How to Do Nothing",
     author: "Jenny Odell",
     rating: 5,
@@ -53,7 +53,7 @@ export const books = [
     cover: "https://images1.penguinrandomhouse.com/cover/9781612198552",
   },
   {
-    id: 6,
+    id: "6",
     title: "Where'd You Go Bernadette",
     author: "Maria Semple",
     rating: 3,
